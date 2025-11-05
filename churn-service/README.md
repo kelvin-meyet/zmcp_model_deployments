@@ -13,16 +13,6 @@ The web interface allows users to enter customer details and instantly get a chu
 
 ---
 
-## 📸 Screenshots
-
-**Web UI Form**
-
-<p align="center">
-  <img src="assets/example-ui.png" width="600" alt="Web UI form screenshot>
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
 | Component        | Purpose                                          |
@@ -33,6 +23,16 @@ The web interface allows users to enter customer details and instantly get a chu
 | **Docker**       | Containerization for consistent deployment       |
 | **Render**       | Cloud hosting for the live web app               |
 | **Jinja2**       | Template engine for the frontend HTML form       |
+
+---
+
+## 📸 Screenshots
+
+**Web UI Form**
+
+<p align="center">
+  <img src="assets/example-ui.png" width="600" alt="Web UI form screenshot>
+</p>
 
 ---
 
