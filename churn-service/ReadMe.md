@@ -11,6 +11,8 @@ This project packages a trained `scikit-learn` pipeline into a containerized RES
 
 The web interface allows users to enter customer details and instantly get a churn probability and decision.
 
+- Churn (also known as attrition rate, turnover, customer turnover, or customer defection) refers to the rate at which customers cancels or stop doing business with a company or a service provider. It is a key metric in industries that provides valuable services to customers.
+
 ---
 
 ## ⚙️ Tech Stack
@@ -37,8 +39,6 @@ The web interface allows users to enter customer details and instantly get a chu
 ---
 
 ## 🧩 Project Structure
-
-To be announced
 
 ```
 churn-service/
