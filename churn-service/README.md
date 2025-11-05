@@ -1,0 +1,39 @@
+# 🧠 Customer Churn Prediction Service
+
+A production-ready **FastAPI** microservice for predicting customer churn.  
+This project packages a trained `scikit-learn` pipeline into a containerized FAST API and web app, deployed on **Render** using **Docker** and **UV** dependency management.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **App URL:** [https://zmcpchurnprediction.onrender.com](https://zmcpchurnprediction.onrender.com)
+
+The web interface allows users to enter customer details and instantly get a churn probability and decision.
+
+---
+
+## 📸 Screenshots
+
+**Web UI Form**
+
+<p align="center">
+  <img src="https://github.com/kelvin-meyet/zmcp_model_deployments/churn-service/assets/example-ui.png" width="600">
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+| Component        | Purpose                                          |
+| ---------------- | ------------------------------------------------ |
+| **FastAPI**      | Web framework for serving predictions            |
+| **scikit-learn** | Trained ML pipeline (Logistic Regression)        |
+| **UV**           | Fast dependency installer and virtualenv manager |
+| **Docker**       | Containerization for consistent deployment       |
+| **Render**       | Cloud hosting for the live web app               |
+| **Jinja2**       | Template engine for the frontend HTML form       |
+
+---
+
+## 🧩 Project Structure
