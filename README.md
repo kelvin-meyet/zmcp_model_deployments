@@ -12,11 +12,11 @@ This project packages a trained `scikit-learn` pipeline into a containerized RES
 
 🔗 **App URL:** [https://zmcpchurnprediction.onrender.com](https://zmcpchurnprediction.onrender.com)
 
-This web interface allows users to enter customer details and instantly get a churn probability(a custo) and decision whether a user will be retained or leave .
+This web interface allows users to enter customer details and instantly get a churn probability and a decision whether a subscriber will stay or leave .
 
 - Churn (also known as attrition rate, turnover, customer turnover, or customer defection) refers to the rate at which customers cancels or stop doing business with a company or a service provider. It is a key metric in industries that provides valuable services to customers.
 
-💡 Heads-up: The app may take about 40 - 50 seconds to start the first time you open it — this is a normal cold-start delay on Render’s free tier. Subsequent requests are lightning-fast!.
+💡 Heads-up: After prolonged periods of inactivty (~ 15 minutes of inactivity), the app may take about 40 - 50 seconds to start — this is a normal cold-start delay on Render’s free tier. Subsequent requests are lightning-fast!
 
 ---
 

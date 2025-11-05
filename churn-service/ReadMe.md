@@ -13,6 +13,8 @@ The web interface allows users to enter customer details and instantly get a chu
 
 - Churn (also known as attrition rate, turnover, customer turnover, or customer defection) refers to the rate at which customers cancels or stop doing business with a company or a service provider. It is a key metric in industries that provides valuable services to customers.
 
+💡 Heads-up: After prolonged periods of inactivty (~ 15 minutes of inactivity), the app may take about 40 - 50 seconds to start — this is a normal cold-start delay on Render’s free tier. Subsequent requests are lightning-fast!
+
 ---
 
 ## ⚙️ Tech Stack
