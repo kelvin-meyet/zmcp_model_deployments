@@ -38,6 +38,6 @@ COPY templates ./templates
 #expose is optional for render, render ignores it
 EXPOSE 9696  
 
+#runtime commands - render will ignore 9696 and use its own. --> "--port", "9696"
 ENTRYPOINT ["uvicorn", "pred_svc:app", "--host", "0.0.0.0"]  
 
-#"--port", "${PORT}" 
