@@ -18,10 +18,14 @@ The web interface allows users to enter customer details and instantly get a chu
 **Web UI Form**
 
 <p align="center">
-  <img src="churn-service/assets/example-ui.png" width="600">
+  <img src="https://github.com/kelvin-meyet/zmcp_model_deployments/churn-service/assets/example-ui" width="600">
 </p>
 
-## #churn-service/assets/example-ui.png
+# churn-service/assets/example-ui.png
+
+# https://github.com/kelvin-meyet/zmcp_model_deployments/churn-service/assets/example-ui
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -37,3 +41,19 @@ The web interface allows users to enter customer details and instantly get a chu
 ---
 
 ## 🧩 Project Structure
+
+TBA
+
+---
+
+## 🧑‍💻 Author
+
+    Kelvin Ofori-Minta, PhD.
+    📍 Indianapolis, IN
+    📧 k.mintah28@gmail.com
+
+    🔗 **LinkedIn :**  [https://www.linkedin.com/in/kelvin-ofori-minta-9a5692b8/](https://www.linkedin.com/in/kelvin-ofori-minta-9a5692b8/)
+
+---
+
+🔗 **App URL:** [https://zmcpchurnprediction.onrender.com](https://zmcpchurnprediction.onrender.com)
