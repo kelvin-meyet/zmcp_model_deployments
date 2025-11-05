@@ -18,12 +18,8 @@ The web interface allows users to enter customer details and instantly get a chu
 **Web UI Form**
 
 <p align="center">
-  <img src="https://github.com/kelvin-meyet/zmcp_model_deployments/churn-service/assets/example-ui" width="600">
+  <img src="assets/example-ui.png" width="600" alt="Web UI form screenshot>
 </p>
-
-# churn-service/assets/example-ui.png
-
-# https://github.com/kelvin-meyet/zmcp_model_deployments/churn-service/assets/example-ui
 
 ---
 
