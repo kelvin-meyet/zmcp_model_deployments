@@ -31,7 +31,7 @@ The web interface allows users to enter customer details and instantly get a chu
 **Web UI Form**
 
 <p align="center" style="margin: 1em 0;">
-  <img src="assets/example-ui.png" width="600" alt="Web UI form screenshot/>
+  <img src="assets/example-ui.png" style="max-width:90%; height:auto;" alt="Web UI form screenshot" />
 </p>
 
 ---
