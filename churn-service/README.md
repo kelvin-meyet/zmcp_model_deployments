@@ -40,6 +40,14 @@ The web interface allows users to enter customer details and instantly get a chu
 
 To be announced
 
+churn-service/
+├── pred_svc.py # FastAPI prediction service
+├── pipeline_model_C=0.5.bin # Trained ML pipeline
+├── templates/index.html # Web input form
+├── Dockerfile # Build & run container
+├── uv.lock / pyproject.toml # Dependencies
+└── README.md # Docs
+
 ---
 
 ## 🧑‍💻 Author
