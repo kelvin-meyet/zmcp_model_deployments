@@ -8,17 +8,29 @@ This project packages a trained `scikit-learn` pipeline into a containerized RES
 
 ---
 
+## 🚀 Live Demo
+
+🔗 **App URL:** [https://zmcpchurnprediction.onrender.com](https://zmcpchurnprediction.onrender.com)
+
+This web interface allows users to enter customer details and instantly get a churn probability(a custo) and decision whether a user will be retained or leave .
+
+- Churn (also known as attrition rate, turnover, customer turnover, or customer defection) refers to the rate at which customers cancels or stop doing business with a company or a service provider. It is a key metric in industries that provides valuable services to customers.
+
+💡 Heads-up: The app may take about 40 - 50 seconds to start the first time you open it — this is a normal cold-start delay on Render’s free tier. Subsequent requests are lightning-fast!.
+
+---
+
 ## 🧩 Project Structure
 
 ```
-├── marketsvc                          # notebook to communicate with fast api service
+├── marketsvc                          # notebook to test and communicate with fast api service
 
 
 churn-service/
 ├── pred_svc.py                        # FastAPI prediction service
 ├── pipeline_model_C=0.5.bin           # Trained ML pipeline
 ├── templates/
-│ └── index.html                       # Web input form (Jinja2 template)
+│ └── index.html                       # Jinja2 template - Template engine for the frontend HTML input form
 ├── Dockerfile                         # Build & run container
 ├── pyproject.toml                     # Project dependencies
 ├── uv.lock                            # Locked dependency versions
@@ -29,6 +41,5 @@ churn-model-building/
 ├── churn modelling notebook
 ├── model prediction script
 ├── model training script
-
 
 ```
