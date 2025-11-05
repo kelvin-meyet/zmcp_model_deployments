@@ -38,7 +38,7 @@ The web interface allows users to enter customer details and instantly get a chu
 
 ## 🧩 Project Structure
 
-TBA
+To be announced
 
 ---
 
