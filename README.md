@@ -11,11 +11,7 @@ This project packages a trained `scikit-learn` pipeline into a containerized RES
 ## 🧩 Project Structure
 
 ```
-
-├── ReadMe
-
-
-├── marketsvc                          #notebook to communicate with fast api service
+├── marketsvc                          # notebook to communicate with fast api service
 
 
 churn-service/
