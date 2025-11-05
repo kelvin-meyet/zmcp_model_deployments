@@ -31,6 +31,9 @@ RUN uv sync --locked
 #Copy application/prediction service code and model binaries into the curent dir in the container(/app)
 COPY "pred_svc.py" "pipeline_model_C=0.5.bin" ./
 
+#copy the local templates folder into the container dir 
+COPY templates ./templates
+
 #Expose port 9696 so it can be accessed from the outside container
 EXPOSE 9696
 
