@@ -35,6 +35,7 @@ COPY "pred_svc.py" "pipeline_model_C=0.5.bin" ./
 COPY templates ./templates
 
 #Expose port 9696 so it can be accessed from the outside container
-EXPOSE 9696
+#expose is optional for render, render ignores it
+EXPOSE 9696  
 
-ENTRYPOINT ["uvicorn", "pred_svc:app", "--host", "0.0.0.0", "--port", "9696"] 
+ENTRYPOINT ["uvicorn", "pred_svc:app", "--host", "0.0.0.0", "--port", "${PORT}" ]  
