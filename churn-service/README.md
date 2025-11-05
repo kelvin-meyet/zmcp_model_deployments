@@ -47,6 +47,6 @@ TBA
 **Kelvin Ofori-Minta, PhD**  
 📍 Indianapolis, IN  
 📧 [k.mintah28@gmail.com](mailto:k.mintah28@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/kelvin-ofori-minta-9a5692b8/](https://www.linkedin.com/in/kelvin-ofori-minta-9a5692b8/)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/kelvin-o-9a5692b8/](https://www.linkedin.com/in/kelvin-o-9a5692b8/)
 
 ---
